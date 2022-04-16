@@ -1,0 +1,43 @@
+*{
+    font-family: Calibre,Arial,sans-serif;
+}
+
+::selection {
+    background: #fcdf3e;
+    color: #0d0e0e;
+  }
+  
+  
+  .utility-page-form {
+    max-height: 300px;
+    max-width: 800px;
+    margin: auto;
+    margin-top: 4rem;
+  }
+  
+  .line-clamp {
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+  }
+  
+  
+  .break-all {
+    word-wrap: break-all;
+  }
+  .bootitem {
+    display: inline-block;
+  }
+  .bootlist {
+    display: block !important;
+  }
+  .slick-prev:hover,
+  .slick-prev:focus,
+  .slick-next:hover,
+  .slick-next:focus {
+    outline: none;
+  }
+  .slick-slide,
+  .slick-slide * {
+    outline: none !important;
+  }
