@@ -6,6 +6,12 @@
     src: url("./fonts/apercu/ApercuMonoPro-Bold.eot");
     src: url("./fonts/apercu/ApercuMonoPro-Bold.eot?#iefix") format("embedded-opentype"),url("./fonts/apercu/ApercuMonoPro-Bold.woff2") format("woff2"),url("./fonts/apercu/ApercuMonoPro-Bold.woff") format("woff"),url("./fonts/apercu/ApercuMonoPro-Bold.ttf") format("truetype")
 }
+@font-face {
+    font-family: 'Material Icons';
+    font-style: normal;
+    font-weight: 400;
+    src: url(https://fonts.gstatic.com/s/materialicons/v126/flUhRq6tzZclQEJ-Vdg-IuiaDsNc.woff2) format('woff2');
+  }
 
 @font-face {
     font-family: "apercu-mono-pro";
